@@ -1,7 +1,4 @@
 <?php
- 	/**
-	 * @package visgov_wp
-	 */
 	/*
 	Plugin Name: Open Maine - Visual Budget Plugin
 	Plugin URI: https://openmaine.org/
@@ -12,10 +9,8 @@
 	Author URI: https://robkorobkin.org
 	License: GPLv2 or later
 	Text Domain: visgov_wp
-	*/
 
-	/*
-	This program is free software; you can redistribute it and/or
+  Open Maine - Visual Budget Plugin is free software; you can redistribute it and/or
 	modify it under the terms of the GNU General Public License
 	as published by the Free Software Foundation; either version 2
 	of the License, or (at your option) any later version.
@@ -31,8 +26,6 @@
 
 	Copyright 2005-2015 Automattic, Inc.
 	*/
-
-
 
 
 function registerVisGovClient(){
